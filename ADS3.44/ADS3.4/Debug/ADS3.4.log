@@ -1,0 +1,111 @@
+﻿  main.cpp
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(15,30): warning C4293: <<: отрицательное или слишком большое смещение; поведение не определено
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(19,26): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(49,22): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(50,22): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(68,28): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(69,29): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(74,32): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(75,33): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(80,27): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(87,28): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(98,25): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(99,26): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(105,20): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(106,21): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(112,31): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(119,32): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(163,22): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(181,20): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(184,32): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(190,19): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(200,25): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(205,20): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\main.cpp(210,31): warning C4244: аргумент: преобразование "INT_64" в "MyKey", возможна потеря данных
+          with
+          [
+              MyKey=int
+          ]
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\Tree.h(62): warning C4715: MyTree<int,int>::Iterator::go_to_begin: значение возвращается не при всех путях выполнения
+C:\Users\Михаил\source\repos\ADS3.44\ADS3.4\Tree.h(119): warning C4715: MyTree<int,int>::ReverseIterator::go_to_rbegin: значение возвращается не при всех путях выполнения
+  ADS3.4.vcxproj -> C:\Users\Михаил\source\repos\ADS3.44\Debug\ADS3.4.exe
